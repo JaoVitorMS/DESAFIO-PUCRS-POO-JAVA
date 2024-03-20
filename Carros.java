@@ -1,7 +1,7 @@
 /*implementar uma classe carro,
  que tera os atributos: placa, marca, modelo, cor, kilometragem e capacidade do tanque
  o objeto terá uma quantia no tanque e seu consumo medio km/litros
- objetivos: criar metodos construtores, modificadores de acesso e toString*/
+ objetivos: criar metodos construtores, modificadores de acesso e toString */
 
  public class Carros {
     //atributos

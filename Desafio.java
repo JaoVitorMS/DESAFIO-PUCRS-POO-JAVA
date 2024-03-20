@@ -2,7 +2,7 @@ public class Desafio { //
 
     public static void main(String[] args) {
         
-        //criando o objeto
+        //criando um objeto
         Carros novocarro = new Carros("IRM9H24 ", " nao ", " Honda ", " Civic ", " Preto ",  70000 , 60 , 7 , 0 );
         System.out.println(novocarro.getCor());
         System.out.println(novocarro.getPlacamerco());
@@ -25,6 +25,6 @@ public class Desafio { //
 
         System.out.println(novocarro.toString());
         System.out.println(novocarro.getPlacamerco());
-        System.out.println(novocarro.getCor());
+        System.out.println(novocarro.getCor()); 
     }
 }
